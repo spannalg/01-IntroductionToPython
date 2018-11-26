@@ -25,6 +25,8 @@
 print('Hello, World')
 print('hi there')
 print('one', 'two', 'buckle my shoe')
-
+print('three', 'four', 'shut the door')
+print('five', 'six', 'pick up sticks')
+print('seven', 'eight', "it's free real estate")
 print(3 + 9)
 print('3 + 9', 'versus', 3 + 9)
